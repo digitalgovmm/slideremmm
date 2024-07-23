@@ -1,12 +1,12 @@
 [
   {
-    "image": "https://example.com/image1.jpg",
+    "image": "https://raw.githubusercontent.com/digitalgovmm/corejson/main/okads.png",
     "title": "Slider Item 1",
     "description": "Description for item 1",
-    "link": "https://example.com/item1"
+    "link": "https://google.com"
   },
   {
-    "image": "https://example.com/image2.jpg",
+    "image": "https://raw.githubusercontent.com/digitalgovmm/corejson/main/okads.png",
     "title": "Slider Item 2",
     "description": "Description for item 2",
     "link": "https://example.com/item2"
