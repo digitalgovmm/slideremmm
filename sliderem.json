@@ -1,0 +1,14 @@
+[
+  {
+    "image": "https://example.com/image1.jpg",
+    "title": "Slider Item 1",
+    "description": "Description for item 1",
+    "link": "https://example.com/item1"
+  },
+  {
+    "image": "https://example.com/image2.jpg",
+    "title": "Slider Item 2",
+    "description": "Description for item 2",
+    "link": "https://example.com/item2"
+  }
+]
